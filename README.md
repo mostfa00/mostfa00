@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**mostfa00/mostfa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mostafa Mohamed**, a **Mechatronics graduate** and **AI Engineer** passionate about **TinyML, pruning, and quantization**. I combine my knowledge of **hardware and software** to build **efficient, real-time AI systems**, and I’m preparing for my **Master’s in Mechatronics Engineering**.  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **TinyML projects with model optimization (pruning & quantization) for edge devices**.  
+- 🌱 I’m currently learning **advanced TinyML deployment, edge AI, and autonomous robotics**.  
+- 👯 I’m looking to collaborate on **AI/ML, embedded AI, and robotics projects**.  
+- 🤔 I’m looking for help with **optimizing AI models for constrained hardware and real-time applications**.  
+- 💬 Ask me about **Python, PyTorch, TensorFlow, TinyML, YOLO, ByteTrack, OpenCV, and hardware-software integration**.  
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mostafa-mohamed-a271ab1a2) | [Email](mostfaabdelnaby552@gmail.com) | [Upwork](https://www.upwork.com/freelancers/~019f127732f5acf6f2)  
+- ⚡ Fun fact: I enjoy **turning AI research into tiny, efficient applications that run on real hardware**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Skills
+**Languages & Tools:** Python, PyTorch, TensorFlow, OpenCV, YOLO, ByteTrack, TinyML, Arduino, Raspberry Pi  
+**Areas:** hardware, TinyML, Model Pruning & Quantization, Edge AI, Computer Vision, Real-time AI, Robotics, Autonomous Systems  , LLms 
+
+---
+
+### ⚡ Fun Quote
+> “Bridging hardware and AI to deliver efficient, real-time intelligence on the edge.”
+
+---
+
+### ⚡ Fun Quote
+> “Bridging hardware and AI to deliver efficient, real-time intelligence on the edge.”

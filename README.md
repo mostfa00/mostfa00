@@ -13,7 +13,7 @@ I'm an **AI Engineer** passionate about **TinyML, pruning, and quantization**. I
 ---
 
 ### 🛠️ My Skills
-**Languages & Tools:** Python, Machine Learning, Deep Learning, PyTorch, TensorFlow, TensorFlow Lite, ONNX, RKNN, TensorRT, OpenCV, YOLO, ByteTrack, DeepSort, TinyML, Arduino, Raspberry Pi, Orange Pi, Jetson Nano  
+**Languages & Tools:** Python, C++, Machine Learning, Deep Learning, PyTorch, TensorFlow, TensorFlow Lite, ONNX, RKNN, TensorRT, OpenCV, YOLO, ByteTrack, DeepSort, TinyML, Arduino, Raspberry Pi, Orange Pi, Jetson Nano  
 
 **Areas:** Hardware, TinyML, Model Pruning & Quantization, LLMs, Edge AI, Computer Vision, Real-time AI, Robotics, Autonomous Systems, Model Deployment 
 

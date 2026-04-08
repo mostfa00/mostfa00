@@ -13,7 +13,7 @@ I'm **Mostafa Mohamed**, a **Mechatronics graduate** and **AI Engineer** passion
 
 ### 🛠️ My Skills
 **Languages & Tools:** Python, PyTorch, TensorFlow, OpenCV, YOLO, ByteTrack, TinyML, Arduino, Raspberry Pi  
-**Areas:** hardware, TinyML, Model Pruning & Quantization, Edge AI, Computer Vision, Real-time AI, Robotics, Autonomous Systems  , LLms 
+**Areas:** Hardware, TinyML, Model Pruning & Quantization, Edge AI, Computer Vision, Real-time AI, Robotics, Autonomous Systems  , LLms 
 
 ---
 

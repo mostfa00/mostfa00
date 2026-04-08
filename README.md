@@ -1,6 +1,6 @@
-## Hi there 👋
+## Mostafa Mohamed – AI Engineer & Mechatronics Graduate 👋
 
-I'm **Mostafa Mohamed**, a **Mechatronics graduate** and **AI Engineer** passionate about **TinyML, pruning, and quantization**. I combine my knowledge of **hardware and software** to build **efficient, real-time AI systems**, and I’m preparing for my **Master’s in Mechatronics Engineering**.  
+I'm **AI Engineer** passionate about **TinyML, pruning, and quantization**. I combine my knowledge of **hardware and software** to build **efficient, real-time AI systems**, and I’m preparing for my **Master’s in Mechatronics Engineering**.  
 
 - 🔭 I’m currently working on **TinyML projects with model optimization (pruning & quantization) for edge devices**.  
 - 👯 I’m looking to collaborate on **AI/ML, embedded AI, and robotics projects**.  

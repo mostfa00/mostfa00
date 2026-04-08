@@ -1,6 +1,6 @@
 ## Mostafa Mohamed – AI & Computer Vision Engineer 👋
 
-I'm an **AI Engineer** passionate about **TinyML, Pruning, and Quantization**. I combine my knowledge of **hardware and software** to build **efficient, real-time AI systems**, and I’m preparing for my **Master’s in Mechatronics Engineering**.
+I'm an **AI Engineer** passionate about **TinyML** and deploying Ai models into **Embedded systems**. I combine my knowledge of **hardware and software** to build **efficient, real-time AI systems**, and I’m preparing for my **Master’s in Mechatronics Engineering**.
 
 - 🔭 I’m currently working on **TinyML projects with model optimization (pruning & quantization) for edge devices**.  
 - 👯 I’m looking to collaborate on **AI/ML, embedded AI, and robotics projects**.  

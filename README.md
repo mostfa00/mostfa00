@@ -1,4 +1,4 @@
-## Mostafa Mohamed – AI Engineer & Mechatronics Graduate 👋
+## Mostafa Mohamed – AI & Computer Vision Engineer 👋
 
 I'm an **AI Engineer** passionate about **TinyML, pruning, and quantization**. I combine my knowledge of **hardware and software** to build **efficient, real-time AI systems**, and I’m preparing for my **Master’s in Mechatronics Engineering**.  
 
